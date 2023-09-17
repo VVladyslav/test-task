@@ -1,4 +1,6 @@
-{"name":"","short_name":"",
+{
+"name":"Rent a Car",
+"short_name":"ReCar",
 "icons":[
     {
     "src":"/android-chrome-192x192.png",
